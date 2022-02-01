@@ -4,7 +4,7 @@
   "description": "Showing weather all around the world",
   "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "author": "Arnav Khajuria",
   "license": "ISC",
